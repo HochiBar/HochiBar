@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about linguistics, psycholinguistics, cognitivism and writing
 - 📫 How to reach me: josh.barrera@applifting.cz
 - 😄 Pronouns: _He/Him/His_
+- Hello, world
 - ⚡ Fun fact: The Canary Islands have their flag as emoji by default! 🇮🇨
 -->
